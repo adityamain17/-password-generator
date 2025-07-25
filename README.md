@@ -16,3 +16,12 @@ This is my second Python project a simple password generator built using `random
 
 ```bash
 python main.py
+
+
+## 💡 What I Learned
+
+- How to use `random` and `string` libraries
+- Basic Python functions
+- How to upload a project to GitHub
+- Writing clean README documentation
+
